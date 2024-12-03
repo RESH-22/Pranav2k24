@@ -1,8 +1,8 @@
-# Hackintym-24
+# Pranav2k24
 
-<!-- PROBLEM STATEMENT -->
-## Problem Statement
-To launch an online interaction medium for all the hospitalization and medication purposes.
+<!-- OBJECTIVE -->
+## Objective
+Created the official website accessed By 30,000 People Worldwide (Pranav 2k24)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -26,14 +26,16 @@ To launch an online interaction medium for all the hospitalization and medicatio
 
 Project Overview 😲
 
-* Login page is used for finding the how many users use the app.
-* All the hospitals, laboratories, pharmacies, and other medical related places can be searched based on the requirement.
-* To overcome the problem of blood facilities for the needed patients and to know the availability in the nearby areas.
-* Helps to increase the donar rate.
-* To find the availability of doctors, hospitals and pharmacies in untimes.
-* Online platform to consult doctor for home.
-* Imported with online delivery facilities for home delivery of pharmaceutical products.
-* Laboratory Tests results of the respective laboratory using the patients ID and phone number.
+A website for a college symposium serves as a central hub for information, communication, and engagement for all stakeholders—organizers, participants, speakers, and sponsors.
+It streamlines the registration process, provides event details, and facilitates interaction between attendees. Key features often include:
+
+* Event Information: Display key event details, including dates, venue, schedule, and agenda.
+* Online Registration: Simplify the registration process for participants, speakers, and attendees.
+* Agenda and Speaker Profiles: Provide a detailed event schedule with speaker bios, session descriptions, and timings.
+* Interactive Features: Allow for abstract submissions, live updates, networking opportunities, and feedback collection.
+* Sponsor and Partner Acknowledgment: Highlight sponsors and partners with logos, descriptions, and links to their websites.
+* A well-designed symposium website enhances attendee experience, ensures seamless communication, and elevates the overall success of the event.
+
 
 Use the `BLANK_README.md` to get started.
 
@@ -49,6 +51,10 @@ This section is the list of major frameworks/libraries used to bootstrap our pro
 * SQL
 * CLOUD MANAGEMENT SYSTEM
 * MICROSOFT OFFICE
+* PAYMENT
+* FIGMA
+* CANVA
+* ADOBE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,10 +68,17 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* Integrate a Real Time Hospitals Showing the Avaliability  of Different Blood Types.
-* It Shows Real Time Avaliability of Doctors, Allow users to book Appointments instantly.
-* Doctors Can Share notes, Diagnostic Results, and treatment Plans in Real Time As a Consultations.
-* It Has Blood Donor and Receiver Registration Where Volunteers may Register and get the Information Used by the Hospitals.
+* Event Registration: Allow participants to register for the symposium, workshops, or competitions online.
+* Event Schedule: Display the event schedule, including session timings, speaker details, and workshops.
+* Speaker/Guest Profiles: Provide information about keynote speakers, panelists, and guests.
+* Abstract/Research Submissions: Enable participants to submit abstracts, papers, or project proposals.
+* Event Updates: Share the latest announcements, schedule changes, and other important information.
+* Sponsor Information: Showcase sponsors and partners, including their logos, descriptions, and links.
+* Interactive Maps: Provide a venue map, including session locations and areas like registration, food, etc.
+* Networking Opportunities: Allow attendees to connect, share profiles, or join discussion boards.
+* Multimedia Gallery: Post photos, videos, and other media from the event or promotional materials.
+* Feedback Collection: Collect feedback from attendees, speakers, and participants to improve future events.
+
 
 _For more examples, please refer to the [Documentation](#)
 
@@ -74,25 +87,33 @@ _For more examples, please refer to the [Documentation](#)
 
 ## Roadmap
 
-- [x] MEDICAL SERVICES
-- [x] BLOOD DONOR REGISTRATION
-- [x] BLOOD RECEIVER REGISTRATION
-- [x] PHARMACY & DOOR DELIVERY
-- [x] DIAGNOSTIC LABS & TEST RESULTS
-- [x] ONLINE MEDIC CONSULT
-- [x] PERSONAL HEALTH CARE
+- [x] Define project scope and requirements
+- [x] Create wireframes and UI/UX design
+- [x] Choose tech stack (front-end & back-end)
+- [x] Set up version control (Git)
+- [x] Develop front-end (HTML, CSS, JS)
+- [x] Develop back-end (server, database, APIs)
+- [x] Perform testing (functional, performance, cross-browser)
+- [x] Implement SEO best practices
+- [x] Deploy website (hosting, domain setup)
+- [x] Monitor, maintain, and update regularly
 
-See the [open issues](https://github.com/RESH-22/Hackintym-24.git) for a full list of proposed features (and known issues).
+
+See the [open issues](https://github.com/RESH-22/Pranav2k24.git) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-“Great things in business are never done by one person. They're done by a team.” 
-“Unity must be able to withstand the severest strain without breaking to be genuine.” 
-“Teamwork is the ability to work together toward a common vision
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. My team members contributed their works in all the possible ways and are **greatly appreciated**.
+In website development, success is never the result of one individual’s efforts alone—it’s the result of collaboration. 
+Our team thrives on a shared vision, where each member brings unique skills to the table. 
+From front-end design to back-end architecture, testing, and deployment, we work together to ensure the highest quality and functionality.
+
+Each team member’s contributions—whether it’s designing an intuitive user interface, optimizing performance, or implementing security measures—are integral to delivering a seamless user experience. 
+Effective communication, problem-solving, and mutual respect are the pillars of our teamwork, ensuring that the project moves forward with unity and purpose.
+
+Our combined effort is what drives the success of this website, and **we are proud of what we’ve built together**.
 
 Don't forget to give the project a star! Thanks again!
 
@@ -119,13 +140,19 @@ Distributed under the MSEC License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Team members 
-* Pramoth S - pramothsekar@gmail.com
+Team members (Web Development)
+* Rupesh S
+* Vishwanathan K
+* Vigneshwar B
+* Sai Kishore 
 * Reshmitha R - rreshmitha22@gmail.com
-* Partiban M - banparthi1417@gmail.com
-* Thejashree - thejasree148@gmail.com
+  
+Team members (Editors)
+* Saran Dev C
+* Tamilmani
 
-Project Link: [https://github.com/RESH-22/Hackintym-24.git](https://github.com/RESH-22/Hackintym-24.git)
+Project Link: [https://github.com/RESH-22/Pranav2k24.git](https://github.com/RESH-22/Pranav2k24.git)
+Website Link:[https://pranav2k24.netlify.app/](Pranav2k24)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
