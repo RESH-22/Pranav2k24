@@ -51,7 +51,7 @@ This section is the list of major frameworks/libraries used to bootstrap our pro
 * SQL
 * CLOUD MANAGEMENT SYSTEM
 * MICROSOFT OFFICE
-* PAYMENT
+* GOOGLE FORMS
 * FIGMA
 * CANVA
 * ADOBE
